@@ -89,7 +89,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12 about-item text-center wow fadeIn" data-wow-offset="200">
                     <header>
                         <div class="about-title">
-                            <i class="fa fa-graduation-cap about-font"></i>
+                            <i class="fa fa-university about-font"></i>
                             <h3>
                                Education
                            </h3>
@@ -101,7 +101,7 @@
                     <i class="fa fa-arrow-right right-arrow"></i>
                     <p>Dean's List Scholar (2015-2016).</p>
                     <i class="fa fa-arrow-right right-arrow"></i>
-                    <p>Cumulative GPA of 3.52.</p>
+                    <p>Entrance Average of 90%.</p>
                     <h4>Garth Webb Secondary School</h4>
                     <i class="fa fa-arrow-right right-arrow"></i>
                     <p>Honour Roll.</p>
@@ -125,7 +125,7 @@
                     <i class="fa fa-arrow-right right-arrow"></i>
                     <p>Proactively responded to customer inquiries regarding items at Chicken Squared.</p>
                     <i class="fa fa-arrow-right right-arrow"></i>
-                    <p>Maintained a clean and safe working environment</p>
+                    <p>Maintained a clean and safe working environment.</p>
                     <h4>Oakville Soccer Club</h4>
                     <i class="fa fa-arrow-right right-arrow"></i>
                     <p>Undertook responsibilities of a referee and linesman in the development league.</p>
@@ -162,9 +162,9 @@
                     <h4>DECA</h4>
                     <i class="fa fa-arrow-right right-arrow"></i>
                     <p>Principles of Hospitality and Tourism: Top Ten (oral) and Second Place (overall).</p>
-                    <h4>ECCO</h4>
+                    <h4>CCC</h4>
                     <i class="fa fa-arrow-right right-arrow"></i>
-                    <p>First Place from Garth Webb Secondary School.</p>
+                    <p>Ranked among the top 25% in the competition hosted by the University of Waterloo.</p>
                 </div>
             </div>
         </div>
@@ -177,22 +177,22 @@
                 <div class="stats col-md-4 col-sm-4 col-xs-12 awards text-center">
                     <div class="vertical-align">
                         <i class="fa fa-trophy"></i>
-                        <h2><strong class="numscroller" data-min="0" data-max="6" data-delay="5" data-increment="1"></strong></h2>
+                        <h2><strong class="numscroller" data-min="0" data-max="6" data-delay="4" data-increment="1"></strong></h2>
                         <h4>Special Recognitions</h4>
                     </div>
                 </div>
                 <div class="stats col-md-4 col-sm-4 col-xs-12 clients text-center">
                     <div class="vertical-align">
-                        <i class="fa fa-users"></i>
-                        <h2><strong class="numscroller" data-min="0" data-max="3" data-delay="5" data-increment="1"></strong></h2>
-                        <h4>Happy Clients</h4>
+                        <i class="fa fa-graduation-cap"></i>
+                        <h2><strong class="numscroller" data-min="0" data-max="3.52" data-delay="3.5" data-increment="1"></strong></h2>
+                        <h4>Cumulative GPA</h4>
                     </div>
                 </div>
                 <div class="stats col-md-4 col-sm-4 col-xs-12 feedback text-center">
                     <div class="vertical-align">
-                        <i class="fa fa-thumbs-up"></i>
-                        <h2><strong class="numscroller" data-min="0" data-max="100" data-delay="5" data-increment="1"></strong>%</h2>
-                        <h4>Positive Feedback</h4>
+                        <i class="fa fa-users"></i>
+                        <h2><strong class="numscroller" data-min="0" data-max="110" data-delay="4" data-increment="1"></strong></h2>
+                        <h4>Volunteer Hours</h4>
                     </div>
                 </div>
             </div>
@@ -220,12 +220,12 @@
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-xs-6 portfolio-item wow fadeIn" data-wow-delay="0.3s">
                             <div class="portfolio-thumb">
-                                <img src="resources/images/proj1.jpg" class="img-responsive" alt="Omnifood Image">
+                                <img src="resources/images/art.jpg" class="img-responsive" alt="Art Gallery Image">
                                 <div class="portfolio-overlay">
                                     <div class="vertical-align">
-                                        <h2>Omnifood</h2>
+                                        <h2>Art Gallery</h2>
                                     </div>
-                                    <a href="http://www.farzanhaq.com/omnifood/" target="_blank">
+                                    <a href="https://github.com/farzanhaq/art-gallery" target="_blank">
                                         <i class="fa fa-external-link"></i>
                                     </a>
                                 </div>
@@ -233,12 +233,12 @@
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-6 portfolio-item wow fadeIn" data-wow-delay="0.5s">
                             <div class="portfolio-thumb">
-                                <img src="resources/images/proj2.jpg" class="img-responsive" alt="Tic-Tac-Toe Image">
+                                <img src="resources/images/photo.jpg" class="img-responsive" alt="Photo Renamer Image">
                                 <div class="portfolio-overlay">
                                     <div class="vertical-align">
-                                        <h2>Tic-Tac-Toe</h2>
+                                        <h2>Photo Renamer</h2>
                                     </div>
-                                    <a href="https://github.com/farzanhaq/projects/tree/master/Assignments/tic-tac-toe" target="_blank">
+                                    <a href="https://github.com/farzanhaq/photo-renamer" target="_blank">
                                         <i class="fa fa-external-link"></i>
                                     </a>
                                 </div>
@@ -246,12 +246,12 @@
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-6 portfolio-item wow fadeIn" data-wow-delay="0.7s">
                             <div class="portfolio-thumb">
-                                <img src="resources/images/proj3.jpg" class="img-responsive" alt="Rideshare Image">
+                                <img src="resources/images/bot.jpg" class="img-responsive" alt="Skype Bot Image">
                                 <div class="portfolio-overlay">
                                     <div class="vertical-align">
-                                        <h2>Taxi Simulation</h2>
+                                        <h2>Skype Bot</h2>
                                     </div>
-                                    <a href="https://github.com/farzanhaq/projects/tree/master/Assignments/taxi-simulation" target="_blank">
+                                    <a href="https://github.com/farzanhaq/skype-bot" target="_blank">
                                         <i class="fa fa-external-link"></i>
                                     </a>
                                 </div>
@@ -259,12 +259,12 @@
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-6 portfolio-item wow fadeIn" data-wow-delay="0.9s">
                             <div class="portfolio-thumb">
-                                <img src="resources/images/proj4.png" class="img-responsive" alt="Puzzle Image">
+                                <img src="resources/images/puzzle.jpg" class="img-responsive" alt="Puzzle Solver Image">
                                 <div class="portfolio-overlay">
                                     <div class="vertical-align">
                                         <h2>Puzzle Solver</h2>
                                     </div>
-                                    <a href="https://github.com/farzanhaq/projects/tree/master/Assignments/puzzle-solver" target="_blank">
+                                    <a href="https://github.com/farzanhaq/puzzle-solver" target="_blank">
                                         <i class="fa fa-external-link"></i>
                                     </a>
                                 </div>
@@ -279,7 +279,7 @@
                         </h5>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                                <span class="sr-only">60% Complete</span>
+                                <span class="sr-only">80% Complete</span>
                             </div>
                         </div>
                     </div>
@@ -289,7 +289,7 @@
                         </h5>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                                <span class="sr-only">60% Complete</span>
+                                <span class="sr-only">70% Complete</span>
                             </div>
                         </div>
                     </div>
@@ -309,7 +309,7 @@
                         </h5>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">
-                                <span class="sr-only">60% Complete</span>
+                                <span class="sr-only">50% Complete</span>
                             </div>
                         </div>
                     </div>
@@ -319,7 +319,7 @@
                         </h5>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-                                <span class="sr-only">60% Complete</span>
+                                <span class="sr-only">40% Complete</span>
                             </div>
                         </div>
                     </div>
@@ -334,9 +334,8 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 contact-form">
                     <form method="post" action="mailer.php" class="contact-me">
-
-                        <div class="row">
-
+                    
+                    <div class="row">
                             <?php
                            if($_GET['success'] == 1) {
                                echo "<div class=\"form-messages success\">
@@ -350,8 +349,7 @@
                            </div>";
                            }
                            ?>
-
-                        </div>
+                    </div>
 
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
@@ -379,8 +377,8 @@
                         <div class="form-group">
                             <textarea class="form-control" name="message" placeholder="Your Message"></textarea>
                         </div>
-                        <button class="btn btn-default text-center">
-                            <input type="submit" value="Submit">
+                        <button type="submit" class="btn btn-default text-center">
+                            Submit
                         </button>
                     </form>
                 </div>

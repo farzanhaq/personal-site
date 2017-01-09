@@ -423,7 +423,7 @@ hr.icon-skills:after {
     text-align: center;
 }
 
-.btn {
+.btn{
     height: 45px;
     font-size: 18px;
     color: #fff;
@@ -443,7 +443,7 @@ hr.icon-skills:after {
 .btn:hover {
     color: #fff;
     background-color: #037ff8;
-    border-color: #037ff8;
+    border-color: 2px solid black;
 }
 
 #contact ul {
